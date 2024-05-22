@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
-<svg fill="#000000"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="800px"
+<svg fill=""  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="800px"
 	 height="800px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+	 <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="0%" y2="50%">
+            <stop offset="0%" style="stop-color:#00d6a2;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#102e5a;stop-opacity:1" />
+        </linearGradient>
+</defs>
 
-<g id="c133de6af664cd4f011a55de6b001b19">
+<g id="c133de6af664cd4f011a55de6b001b19" fill="url(#gradient)">
 
 <path display="inline" d="M483.111,0.501l-42.59,461.314l-184.524,49.684L71.47,461.815L28.889,0.501H483.111z M397.29,94.302
 		H255.831H111.866l6.885,55.708h137.08h7.7l-7.7,3.205l-132.07,55.006l4.38,54.453l127.69,0.414l68.438,0.217l-4.381,72.606

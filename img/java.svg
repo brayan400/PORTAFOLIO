@@ -3,8 +3,14 @@
 <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
 <svg fill="#000000"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="800px"
 	 height="800px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+	 <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="0%" y2="50%">
+            <stop offset="0%" style="stop-color:#00d6a2;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#102e5a;stop-opacity:1" />
+        </linearGradient>
+</defs>
 
-<g id="5151e0c8492e5103c096af88a51e8d81">
+<g id="5151e0c8492e5103c096af88a51e8d81" fill="url(#gradient)">
 
 <path display="inline" d="M193.918,208.369c-4.729-10.456-6.849-22.652-3.236-33.731c3.612-11.327,11.703-20.413,19.794-28.878
 		c22.525-22.531,50.285-39.085,72.316-61.986c12.197-12.573,22.278-27.634,25.762-44.937c2.864-12.695,1.496-25.764-1.117-38.337
